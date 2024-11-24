@@ -1,5 +1,5 @@
-#  <p align="center">Hi there 👋 , I'm Danial Haghmoradi </p>
-## <p align="center"> I am a computer engineering student , web developer </p>
+#  <h1 align="center">Hi there 👋 , I'm Danial Haghmoradi </h1>
+## <h3 align="center"> I am a Computer Engineering student , Web Developer </h3>
 ### Languages and Tools:
 
 <table align="center">
